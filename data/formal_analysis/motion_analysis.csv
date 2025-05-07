@@ -1,0 +1,58 @@
+﻿Shot Classification,Shot Start,Shot End,Camera Motion,Character Motion
+Home,0:00,0:16,Pan,None
+Home,0:16,0:21,None,None
+Home,0:21,0:25,None,None
+Home,0:25,0:30,None,None
+Home,0:30,0:38,None,None
+Home,0:38,0:47,None,Left to Right
+Home,0:47,0:52,None,Curve
+Home,0:52,0:57,None,Front to Back
+Home,0:57,1:02,None,Curve
+Home,1:02,1:07,Tilt,Curve
+Home,1:07,1:11,None,Right to Left
+Home,1:11,1:14,None,None
+Home,1:14,1:17,None,None
+Home,1:17,1:24,None,None
+Home,1:24,1:26,None,Front to Back
+Home,1:26,1:39,None,None
+City,1:35,1:38,None,Right to Left
+City,1:38,1:42,Trucking,Right to Left
+City,1:42,1:47,POV,Front to Back
+City,1:47,1:52,Dolly,Back to Front
+City,1:52,1:59,Tilt,Front to Back
+City,1:59,2:06,Dolly,Back to Front
+City,2:06,2:11,None,Right to Left
+City,2:11,2:14,Trucking,Back to Front
+City,2:14,2:18,Pedestal,Right to Left
+City,2:18,2:23,None,Back to Front
+City,2:23,2:29,Trucking,Right to Left
+City,2:29,2:31,None,None
+City,2:31,2:34,None,Right to Left
+City,2:34,2:36,None,Left to Right
+City,2:36,2:39,None,Left to Right
+City,2:39,2:44,None,Left to Right
+City,2:44,2:52,Pedestal,None
+City,2:52,2:56,None,Left to Right
+City,2:56,3:01,None,None
+City,3:01,3:07,None,Front to Back
+City,3:07,3:11,None,Back to Front
+City,3:11,3:16,Pedestal,Right to Left
+City,3:16,3:19,None,Curve
+City,3:19,3:22,None,Back to Front
+City,3:22,3:27,POV,Back to Front
+City,3:27,3:31,Trucking,Left to Right
+City,3:31,3:33,None,None
+City,3:33,3:35,None,None
+City,3:36,3:43,Pan,Curve
+City,3:43,3:45,None,Back to Front
+City,3:45,3:49,None,Right to Left
+City,3:49,3:51,Pan,Right to Left
+City,3:51,3:52,None,Right to Left
+City,3:52,3:54,Trucking,Right to Left
+City,3:54,3:57,None,Back to Front
+City,3:57,4:09,Tilt,Top to Bottom
+City,4:09,4:11,None,None
+City,4:11,4:19,None,None
+City,4:20,4:22,None,None
+City,4:22,4:28,None,None
+City,4:28,4:34,None,Front to Back
